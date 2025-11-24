@@ -4,13 +4,17 @@
 
 A simple and efficient image cropping library for Android applications.
 
+check app module for how to use it
+
 ## 🛠 Installation
 
 Follow the steps below to integrate the library into your project.
 
-### Step 1. Add the JitPack repository
+add your build.gradle implementation("com.github.emirhantunc:androidimagecropper:1.0.0") library.
+
 
 Open your root **`settings.gradle.kts`** (or `settings.gradle`) file and add the JitPack repository to the `repositories` block:
+
 
 **Kotlin DSL (`settings.gradle.kts`):**
 ```kotlin
